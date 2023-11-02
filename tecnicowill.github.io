@@ -1,11 +1,6 @@
 index.html
-<!DOCTYPE html> <html lang="pt-br"> <head>
-    <meta charset="UTF-8"> <meta
-    name="viewport"
-    content="width=device-width,
-    initial-scale=1.0"> <title>Meu
-    Site</title> <link rel="stylesheet"
-    href="styles.css">
+<head>Bem vindo ao meu cite<head>
+    
 </head> <body>
     <header>
         <h1>Bem-vindo ao Meu Site!</h1>
@@ -21,4 +16,5 @@ index.html
         <p>&copy; 2023 Meu Site will® . Todos
     os direitos reservados.</p> </footer>
 </body> </html>
-Suporte em Informática 
+
+** _Suporte em Informática_ **
