@@ -13,7 +13,7 @@
         </ul> </nav> <main>
         <section> 
             <br  >
-            <font face="Times new roman"><strong>assistência em:  </strong> </font> <br />
+            <font face="Times new roman"><strong>Assistência em:  </strong> </font> <br />
             <br />
             <font face="Times new roman"> 🖥️Computador <font face="Courier">(Hardware e Software) </font> </font> <br />    
             <font face="Times new roman"> 💻 Notebook <font face="Courier">(Hardware e Software) </font> </font> <br />    
