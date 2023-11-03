@@ -27,4 +27,4 @@
        <br  />
        <br  />
 <p>&copy;2023 Tech soluções. Todos
-    os direitos reservados ® </p> </footer>
+    os direitos reservados ® </p>
