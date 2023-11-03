@@ -12,8 +12,8 @@
         <section> <h2>mais informações Sobre o site</h2> <p> site
             de demonstracao.</p> </section>
     </main> <footer>
-        <p>&copy; 2023 Meu Site will® . Todos
-    os direitos reservados.</p> </footer>
+        <p>&copy; 2023 Meu Site will. Todos
+    os direitos reservados® </p> </footer>
 </body>
 
 ** _Suporte em Informática_ **
