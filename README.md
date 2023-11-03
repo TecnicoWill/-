@@ -20,12 +20,10 @@
  </body>
      
           
- </body>  <p> site
+home </body>  <p> site
             de demonstracao.</p> </section>
     </main> <footer>
         <p>&copy; 2023 Tech soluções. Todos
     os direitos reservados ® </p> </footer>
 </body>
-
-Suporte em Informática
 
