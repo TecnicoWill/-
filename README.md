@@ -4,7 +4,7 @@
     
 </head> <body>
     <header>
-        <h1>Bem-vindo ao Site!</h1>
+    </text-align: center;p>  <h1>Bem-vindo ao Site!</h1>
     </header> <nav>
         <ul>   
             <br  >
@@ -17,18 +17,16 @@
             <br  >
             <font face="Times new roman">assistência em:</font> <br />
             <br />
-            <font face="Times new roman">Computador 🖥️ <font face="Courier">(Hardware e Software) </font> </font> <br />    
-       <font face="Arial">Celular Android 📱 <font face="Courier">(Software) </font> </font> <br /> 
-  <font face="Georgia"> Georgia </font> <br />
-  <font face="Helvetica"> Helvetica </font> <br />
-  <font face="Tribuchet"> Trebuchet </font> <br />
-  <font face="Verdana"> Verdana </font> <br />
+            <font face="Times new roman"> 🖥️Computador <font face="Courier">(Hardware e Software) </font> </font> <br />    
+            <font face="Times new roman"> 💻 Notebook <font face="Courier">(Hardware e Software) </font> </font> <br />    
+       <font face="Arial">📱 Celular Android <font face="Courier">(Software) </font> </font> <br /> 
+  <font face="Times new roman">💽 Formatação (🖥️💻📱)</font> <br />    
             <font color="#FF0000">Site demonstrativo</font>
  <footer>
 <br>
      <br>
-<h2> <font>Sobre o site </font> </h2>
+<h2> <font>Sobre o site </font> </h1>
        <br  />
        <br  />
 <p>&copy;2023 Tech soluções. Todos
-    os direitos reservados ® </p>
+    os direitos reservados ® </p> </footer>
