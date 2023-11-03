@@ -1,10 +1,8 @@
-
-
 <head>🚀Tech soluções🚀 <head>
     
 </head> <body>
     <header>
-    </text-align: center;p>  <h1>Bem-vindo ao Site!</h1>
+    </p>  <h1>Bem-vindo ao Site!</h1>
     </header> <nav>
         <ul>   
             <br  >
@@ -25,7 +23,7 @@
  <footer>
 <br>
      <br>
-<h2> <font>Sobre o site </font> </h1>
+<h2> <font>Sobre o site </font> </h2>
        <br  />
        <br  />
 <p>&copy;2023 Tech soluções. Todos
