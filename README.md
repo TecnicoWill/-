@@ -4,7 +4,9 @@
     <header>
         <h1>Bem-vindo ao Site!</h1>
     </header> <nav>
-        <ul> <li><a href="#">Página
+        <ul> 
+            
+<li><a href="#">Página
             Inicial</a></li> <li><a
             href="#">Sobre</a></li> <li><a
             href="#">Contato</a></li>
@@ -18,7 +20,10 @@
   <font face="Tribuchet"> Trebuchet </font> <br />
   <font face="Verdana"> Verdana </font> <br />
             <font color="#FF0000">Site demonstrativo</font> </section>
-    </main> <footer>
-        <p>&copy; 2023 Tech soluções. Todos
+   </main> <footer>
+       
+
+
+<p>&copy;2023 Tech soluções. Todos
     os direitos reservados ® </p> </footer>
 </body>
