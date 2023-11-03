@@ -27,8 +27,8 @@
  <footer>
 <br>
      <br>
-<h2> <font>Sobre o site </font> </h1>
+<h2> <font>Sobre o site </font> </h2>
        <br  />
        <br  />
 <p>&copy;2023 Tech soluções. Todos
-    os direitos reservados ® </p> </footer>
+    os direitos reservados ® </p>
