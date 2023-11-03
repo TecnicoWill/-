@@ -17,10 +17,7 @@
   <font face="Times"> Times </font> <br />
   <font face="Tribuchet"> Trebuchet </font> <br />
   <font face="Verdana"> Verdana </font> <br />
- </body>
-     
-          
-home </body>  <p> site
+            <p> site
             de demonstracao.</p> </section>
     </main> <footer>
         <p>&copy; 2023 Tech soluções. Todos
