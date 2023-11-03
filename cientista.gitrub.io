@@ -9,7 +9,7 @@
             href="#">Sobre</a></li> <li><a
             href="#">Contato</a></li>
         </ul> </nav> <main>
-        <section> <h2>Sobre Mim</h2> <p> site
+        <section> <h2>mais informações Sobre o site</h2> <p> site
             de demonstracao.</p> </section>
     </main> <footer>
         <p>&copy; 2023 Meu Site will® . Todos
