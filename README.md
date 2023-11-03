@@ -16,4 +16,4 @@
     os direitos reservados.</p> </footer>
 </body>
 
-** _Suporte em Informática_ **
+Suporte em Informática
