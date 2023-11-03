@@ -1,4 +1,4 @@
-<head>Bem vindo ao meu cite<head>
+<head>Bem vindo ao meu site<head>
     
 </head> <body>
     <header>
