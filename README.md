@@ -26,7 +26,7 @@
  <footer>
 <br>
      <br>
-   <h2>  <font>Sobre o site </font>
+   <h2>  <font>Sobre o site </font> </h1>
        <br  />
        <br  />
 <p>&copy;2023 Tech soluções. Todos
