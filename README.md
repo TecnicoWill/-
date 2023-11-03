@@ -2,7 +2,7 @@
     
 </head> <body>
     <header>
-    </p>  <h1>Bem-vindo ao Site!</h1>
+     <h1>Bem-vindo ao Site!</h1>
     </header> <nav>
         <ul>   
             <br  >
@@ -13,7 +13,7 @@
         </ul> </nav> <main>
         <section> 
             <br  >
-            <font face="Times new roman">assistência em:</font> <br />
+            <font face="Times new roman"><strong>assistência em:  </strong> </font> <br />
             <br />
             <font face="Times new roman"> 🖥️Computador <font face="Courier">(Hardware e Software) </font> </font> <br />    
             <font face="Times new roman"> 💻 Notebook <font face="Courier">(Hardware e Software) </font> </font> <br />    
@@ -27,4 +27,4 @@
        <br  />
        <br  />
 <p>&copy;2023 Tech soluções. Todos
-    os direitos reservados ® </p>
+    os direitos reservados ® </p> </footer>
