@@ -11,7 +11,7 @@
             href="#">Sobre</a></li> <li><a
             href="#">Contato</a></li>
         </ul> </nav> <main>
-        <section> <h2> <font color="#FF0000">Sobre o site </font> <br /> </h2> 
+        <section> <h2> <font>Sobre o site </font> <br /> </h2> 
        <font face="Arial"> Arial </font> <br />
   <font face="Courier"> Courier </font> <br />
   <font face="Georgia"> Georgia </font> <br />
