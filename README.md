@@ -1,8 +1,8 @@
-<head>Bem vindo ao meu site<head>
+<head>Tech soluções<head>
     
 </head> <body>
     <header>
-        <h1>Bem-vindo ao Meu Site!</h1>
+        <h1>Bem-vindo ao Site!</h1>
     </header> <nav>
         <ul> <li><a href="#">Página
             Inicial</a></li> <li><a
@@ -23,7 +23,7 @@
  </body>  <p> site
             de demonstracao.</p> </section>
     </main> <footer>
-        <p>&copy; 2023 Meu Site will. Todos
+        <p>&copy; 2023 Tech soluções. Todos
     os direitos reservados ® </p> </footer>
 </body>
 
