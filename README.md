@@ -24,7 +24,7 @@
             de demonstracao.</p> </section>
     </main> <footer>
         <p>&copy; 2023 Meu Site will. Todos
-    os direitos reservados .</p> </footer>
+    os direitos reservados® </p> </footer>
 </body>
 
 Suporte em Informática
