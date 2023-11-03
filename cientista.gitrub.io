@@ -14,6 +14,6 @@
     </main> <footer>
         <p>&copy; 2023 Meu Site will® . Todos
     os direitos reservados.</p> </footer>
-</body> </html>
+</body>
 
-** _Suporte em Informática_ ** pwd
+** _Suporte em Informática_ **
