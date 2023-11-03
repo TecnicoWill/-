@@ -17,10 +17,8 @@
   <font face="Times new roman"> Times </font> <br />
   <font face="Tribuchet"> Trebuchet </font> <br />
   <font face="Verdana"> Verdana </font> <br />
-            <font color="#FF0000">Sobre o site </font> </section>
+            <font color="#FF0000">Site demonstrativo</font> </section>
     </main> <footer>
         <p>&copy; 2023 Tech soluções. Todos
     os direitos reservados ® </p> </footer>
 </body>
-
-     Este texto e vermelho </font> <br />
