@@ -27,4 +27,4 @@
        <br  />
        <br  />
 <p>&copy;2023 Tech soluções. Todos
-    os direitos reservados ®    <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG " />     </p>   </footer>
+    os direitos reservados ®    <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG " />   <img src="   https://tecnicowill.github.io/cientista.gitrub.io/SEGURANÇA.PNG" />  </p>   </footer>
