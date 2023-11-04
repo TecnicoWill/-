@@ -27,4 +27,4 @@
        <br  />
        <br  />
 <p>&copy;2023 Tech soluções. Todos
-    os direitos reservados ®     <img  src=/data/data/com.termux/files/home/cison/imagens/seguranca.png>   <img src="" alt=<img src="" alt="Minha imagem de teste" /> /> </p>   </footer>
+    os direitos reservados ®        <img src="src=/data/data/com.termux/files/home/cison/imagens/seguranca.png" alt= </p>   </footer>
