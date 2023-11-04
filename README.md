@@ -31,6 +31,8 @@
 
 <img src="  /data/data/com.termux/files/home/cison/SEGURANÇA.PNG "/>
 
+<img src="SEGURANCA.PNG "/>
+<BR>
 
 
 </p>   </footer>
