@@ -29,9 +29,9 @@
 <p>&copy;2023 Tech soluções. Todos
     os direitos reservados ®    <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>   <img src="/data/data/com.termux/files/home/cison/SEGURANÇA.PNG" /> 
 
-<img src="  /data/data/com.termux/files/home/cison/SEGURANÇA.PNG "/>
+<img src="/data/data/com.termux/files/home/cison/SEGURANÇA.PNG"/>
 
-<img src="SEGURANCA.PNG "/>
+<img src="SEGURANCA.PNG"/>
 <BR>
 
 
