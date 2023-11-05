@@ -1,9 +1,7 @@
 <head>🚀 Tech soluções 🚀 <head>
     
 </head> <body>
-    <header>
-     <h1>Bem-vindo ao Site! 🎖️   </h1>
-    </header> <nav>
+    <header><h1>  🎖️  Bem-vindo ao Site! 🎖️</h1></header><nav>
         <ul>   
             <br  >
 <li><a href="#">Página
@@ -24,10 +22,10 @@
 <br>
      <br>
 <h2> <font>Sobre o site </font> </h2>
-       Desenvolvimento de sites seguros 🔒 <br  /> <p> </p>
+      🌏 Desenvolvimento de sites seguros 🌏 <br>  ✅ criptografia moderna e autenticada 🔒<br>✅ certificado reconhecido 🛡️ <p> </p>
        <br  />
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
-    os direitos reservados ®. 🛡️ <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
+    os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
 
 
 
