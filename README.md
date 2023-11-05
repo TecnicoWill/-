@@ -1,4 +1,4 @@
-<head>🚀Tech soluções🚀 <head>
+<head>🚀 Tech soluções 🚀 <head>
     
 </head> <body>
     <header>
@@ -27,7 +27,7 @@
        Desenvolvimento de sites seguros 🔒 <br  /> <p> </p>
        <br  />
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
-    os direitos reservados ®    <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>   <img src="/data/data/com.termux/files/home/cison/SEGURANÇA.PNG" /> 
+    os direitos reservados ®    <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
     🛡️
 
 
