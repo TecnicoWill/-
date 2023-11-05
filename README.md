@@ -22,7 +22,7 @@
 <br>
      <br>
 <h2> <font>Sobre o site </font> </h2>
-      🌏 Desenvolvimento de sites seguros 🌏 <br>  ✅ criptografia moderna e autenticada 🔒<br>✅ certificado reconhecido 🛡️ <p> </p>
+      🌏 <strong> Desenvolvimento de sites seguros </strong>🌏 <br>  ✅ criptografia moderna e autenticada 🔒<br>✅ certificado reconhecido 🛡️ <p> </p>
        <br  />
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
     os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
