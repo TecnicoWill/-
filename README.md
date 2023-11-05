@@ -2,7 +2,7 @@
     
 </head> <body>
     <header>
-     <h1>Bem-vindo ao Site!</h1>
+     <h1>Bem-vindo ao Site! 🎖️   </h1>
     </header> <nav>
         <ul>   
             <br  >
@@ -23,7 +23,7 @@
  <footer>
 <br>
      <br>
-<h2> <font>Sobre o site 🎖️ </font> </h2>
+<h2> <font>Sobre o site </font> </h2>
        Desenvolvimento de sites seguros 🔒 <br  /> <p> </p>
        <br  />
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
