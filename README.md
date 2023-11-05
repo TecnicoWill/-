@@ -1,7 +1,8 @@
-<head>🚀 Tech soluções 🚀 <head>
+
+<center><head>🚀 Tech soluções 🚀<head></head></center>
     
 </head> <body>
-    <header><h1>  🎖️  Bem-vindo ao Site! 🎖️</h1></header><nav>
+    <header><h1> <center> 🎖️  Bem-vindo ao Site! 🎖️  </center>  </h1></header><nav>
         <ul>   
             <br  >
 <li><a href="#">Página
