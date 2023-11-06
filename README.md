@@ -18,12 +18,12 @@
             <font face="Times new roman"> 💻 Notebook <font face="Courier">(Hardware e Software) </font> </font> <br />    
        <font face="Arial">📱 Celular Android <font face="Courier">(Software) </font> </font> <br /> 
   <font face="Times new roman">💽 Formatação (🖥️💻📱)</font> <br />    
-     <br>   🛠️ <font color="#FF0000">  suporte online </font>
+     <br>   🛠️ <font color="#FF0000">  <u>Assistência online</u> </font>
  <footer>
 <br>
      <br>
 <h2> <font>Sobre o site </font> </h2>
-      🌏 <strong> Desenvolvimento de sites seguros </strong>🌏 <br>  ✅ criptografia moderna e autenticada 🔒<br>✅ certificado reconhecido 🛡️ <p> </p>
+      🌏 <strong> Desenvolvimento de sites seguros </strong>🌏 <br>  ✅ Criptografia moderna e autenticada. 🔒<br>✅ Certificado reconhecido. 🛡️ <p> </p>
        <br  />
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
     os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
