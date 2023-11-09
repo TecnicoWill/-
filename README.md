@@ -1,7 +1,7 @@
 
 <center><head>🚀 Tech soluções 🚀<head></head>
     
-</head> <body> <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG" width=60 height=40  />
+</head> <body> 
 
  </body>
     <header><h1> <center> 🎖️  Bem-vindo(a) ao Site! <font color="#FF0000">https</font>🎖️  </center>  </h1></header><nav>
@@ -28,5 +28,5 @@
       🌏 <strong> Desenvolvimento de sites seguros </strong>🌏 <br>  ✅ Criptografia moderna e autenticada. 🔒<br>✅ Certificado reconhecido. 🛡️ <p> </p>
        <br  />
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
-    os direitos reservados ®. 
+    os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG" width=60 height=40  />
 </p>   </footer>
