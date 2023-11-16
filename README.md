@@ -30,3 +30,57 @@
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
     os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG" width=60 height=40  />
 </p>   </footer>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informática</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+ header {
+  text-align: center;
+padding: 20px;
+background-color: #333;
+  color: #fff;  }
+  section {
+ margin-top: 20px;
+  article {    margin-bottom: 20px;    }
+ footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+ color: #fff; }</style>
+</head>
+<body>
+   <header>
+  <h1>Informática</h1>
+ <p>Sua fonte confiável para informações sobre tecnologia.</p>
+  </header>
+ <section>
+  <article>
+   <h2>Serviços</h2>
+  <p>Oferecemos uma variedade de serviços de informática, incluindo manutenção de hardware, solução de problemas de software e consultoria em TI.</p>
+</article>
+<article>
+<h2>Notícias Tecnológicas</h2>
+            <p>Fique atualizado com as últimas notícias do mundo da tecnologia, incluindo lançamentos de produtos, avanços e tendências.</p>
+        </article><article>
+ <h2>Dicas e Truques</h2>
+<p>Explore nossos artigos informativos com dicas úteis e truques para otimizar seu uso de dispositivos e softwares.</p>
+ </article>
+  </section>
+<footer>
+        <p>&copy; 2023 Informática. Todos os direitos reservados.</p>
+    </footer></body>
+</html>
+
