@@ -4,7 +4,7 @@
 </head> <body> 
 
  </body>
-    <header><h1> <center> 🎖️  Bem-vindo(a) ao Site! <font color="#FF0000">w</font>🎖️  </center>  </h1></header><nav>
+    <header><h1> <center> 🎖️  Bem-vindo(a) ao Site! <font color="#FF0000"></font>🎖️  </center>  </h1></header><nav>
         <ul>   
             <br  >
 <li><a href="#">Página
