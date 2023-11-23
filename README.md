@@ -28,7 +28,7 @@
       🌏 <strong> Desenvolvimento de sites seguros </strong>🌏 <br>  ✅ Criptografia moderna e autenticada. 🔒<br>✅ Certificado reconhecido. 🛡️ <p> </p>
        <br  />
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
-    os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG" width=60 height=40  />
+    os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
 </p>   </footer> 
 
             
@@ -76,8 +76,7 @@ background-color: #333;
 <p>Explore nossos artigos informativos com dicas úteis e truques para otimizar seu uso de dispositivos e softwares.</p>
  </article>
   </section>
-<footer>
-        <p>&copy; 2023 Informática. Todos os direitos reservados.</p>
-    </footer></body>
-</html>
+<p>&copy;2023 Tech soluções 🇧🇷. Todos
+    os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
+</p>   </footer> 
 
