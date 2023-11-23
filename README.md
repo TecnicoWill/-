@@ -78,5 +78,4 @@ background-color: #333;
   </section>
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
     os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
-</p>   </footer> 
 
