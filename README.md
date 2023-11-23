@@ -29,12 +29,9 @@
        <br  />
 <p>&copy;2023 Tech soluções 🇧🇷. Todos
     os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG" width=60 height=40  />
-</p>   </footer>
+</p>   </footer> 
 
-
-
-
-<!DOCTYPE html>
+            
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -63,7 +60,7 @@ background-color: #333;
 </head>
 <body>
    <header>
-  <h1>Informática</h1> </header>
+  Informática</header>
  <p>Sua fonte confiável para informações sobre tecnologia.</p>
   
  <section>
