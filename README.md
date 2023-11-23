@@ -63,9 +63,9 @@ background-color: #333;
 </head>
 <body>
    <header>
-  <h1>Informática</h1>
+  <h1>Informática</h1> </header>
  <p>Sua fonte confiável para informações sobre tecnologia.</p>
-  </header>
+  
  <section>
   <article>
    <h2>Serviços</h2>
