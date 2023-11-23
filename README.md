@@ -20,7 +20,7 @@
             <font face="Times new roman"> 💻 Notebook <font face="Courier">(Hardware e Software) </font> </font> <br />    
        <font face="Arial">📱 Celular Android <font face="Courier">(Software) </font> </font> <br /> 
   <font face="Times new roman">💽 Formatação (🖥️💻📱)</font> <br />    
-     <br>   🛠️ <font color="#FF0000"> Suporte técnico especializado </font>
+     <br>   🛠️ <font color="#FF0000"> Suporte técnico especializado. </font>
  <footer>
 <br>
      <br>
