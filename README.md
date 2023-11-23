@@ -1,5 +1,5 @@
 
-<center><head>🚀 Tech soluções 🚀<head></head>
+<center><head><header>🚀 Tech soluções 🚀 </header> <head></head></head>
     
 </head> <body> 
 
