@@ -1,95 +1,80 @@
+<center><head><header>🚀 Tech soluções 🚀 </header> <head></head>
+    
+</head> <body> 
+
+ </body>
+    <h1> <center> 🎖️ Bem-vindo ao Site! <font color="#FF0000"></font>🎖️  </center>  </h1><nav>
+        <ul>   
+            <br  >
+<li><a href="#">Página
+            Inicial</a></li> <li><a
+            href="#">Sobre</a></li> <li><a
+            href="#">Contato</a></li>
+        </ul> </nav> <main>
+        <section> 
+            <br  >
+            <font face="Times new roman"><strong> <u>Assistência em:</u> </strong> </font> <br />
+            <br />
+            <font face="Times new roman"> 🖥️ Computador <font face="Courier">(Hardware e Software) </font> </font> <br />    
+            <font face="Times new roman"> 💻 Notebook <font face="Courier">(Hardware e Software) </font> </font> <br />    
+       <font face="Arial">📱 Celular Android <font face="Courier">(Software) </font> </font> <br /> 
+  <font face="Times new roman">💽 Formatação (🖥️💻📱)</font> <br />    
+     <br>   🛠️ <font color="#FF0000"> Suporte técnico especializado. </font>
+ 
+<br>
+     <br>
+<h2> <font>Sobre o site </font> </h2>
+      🌏 <strong> Desenvolvimento de sites seguros </strong>🌏 <br>  ✅ Criptografia moderna e autenticada. 🔒<br>✅ Certificado reconhecido. 🛡️ <p> </p>
+       <br  />
+<p>&copy;2023 Tech soluções 🇧🇷. Todos
+    os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
+</p>   </footer> 
+
+            
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login Page</title>
+    <title>Informática</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-
-        .login-container {
-            background-color: #fff;
+            margin: 20px;
             padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #f4f4f4;
         }
-
-        .login-container h2 {
-            text-align: center;
-        }
-
-        .login-form {
-            display: flex;
-            flex-direction: column;
-        }
-
-        .form-group {
-            margin-bottom: 15px;
-        }
-
-        .form-group label {
-            margin-bottom: 5px;
-            font-weight: bold;
-        }
-
-        .form-group input {
-            padding: 8px;
-            font-size: 16px;
-            border: 1px solid #ccc;
-            border-radius: 3px;
-        }
-
-        .form-group button {
-            padding: 10px;
-            background-color: #4caf50;
-            color: #fff;
-            border: none;
-            border-radius: 3px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-    </style>
+ header {
+  text-align: center;
+padding: 20px;
+background-color: #333;
+  color: #fff;  }
+  section {
+ margin-top: 20px;
+  article {    margin-bottom: 20px;    }
+ footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+ color: #fff; }</style>
 </head>
 <body>
-    <div class="login-container">
-        <h2>Login</h2>
-        <form class="login-form">
-            <div class="form-group">
-                <label for="username">Username:</label>
-                <input type="text" maxlength=25  id="username" name="username" required>
-            </div>
-            <div class="form-group">
-                <label for="password">Password:</label>
-                <input type="password" maxlength=25 id="password" name="password" required>
-            </div>
-            <div class="form-group">
-                <button type="submit">Login</button>
-            </div>
-        </form>
-    </div>
-</body>
-</html>
+   <header>
+  Informática</header>
+ <p>Sua fonte confiável para informações sobre tecnologia.</p>
+  
+ <section>
+  <article>
+   <h2>Serviços</h2>
+  <p>Oferecemos uma variedade de serviços de informática, incluindo manutenção de hardware, solução de problemas de software e consultoria em TI.</p>
+</article>
+<article>
+<h2>Notícias Tecnológicas</h2>
+            <p>Fique atualizado com as últimas notícias do mundo da tecnologia, incluindo lançamentos de produtos, avanços e tendências.</p>
+        </article><article>
+ <h2>Dicas e Truques</h2>
+<p>Explore nossos artigos informativos com dicas úteis e truques para otimizar seu uso de dispositivos e softwares.</p>
+ </article>
+  </section>
+<p>&copy;2023 Tech soluções 🇧🇷. Todos
+    os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
 
-
-### Technologies
-<p display="inline-block">
-  <img width="48" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="csharp-logo"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor-logo"/>
-</p>
-                                                                                                  
-### Development Tools
-
-<p display="inline-block">
-  <img width="48" src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg" alt="vs-logo"/>
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-logo"/>
-  <img width="48" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="rider-logo"/>
-</p>
-
-## Running
