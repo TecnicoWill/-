@@ -64,7 +64,7 @@
         <form class="login-form">
             <div class="form-group">
                 <label for="username">Username:</label>
-                <input type="text" id="username" name="username" required>
+                <input type="text" maxlength=25  id="username" name="username" required>
             </div>
             <div class="form-group">
                 <label for="password">Password:</label>
