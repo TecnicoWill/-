@@ -27,7 +27,7 @@
 <body> 
 
  </body>
-    <h1>/,title> <center> 🎖️ Bem-vindo ao Site! <font color="#FF0000"></font>🎖️  </center> </title> </h1><nav>
+    <h1> <title> <center> 🎖️ Bem-vindo ao Site! <font color="#FF0000"></font>🎖️  </center> </title> </h1><nav>
         <ul>   
             <br  >
 <li><a href="#">Página
