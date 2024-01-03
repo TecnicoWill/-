@@ -1,9 +1,33 @@
-<center><head><header>🚀 Tech soluções 🚀 </header> <head></head>
+ 
+<head>  <html lang="pt-br">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Informática</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 20px;
+                padding: 20px;
+                background-color: #f4f4f4;
+            }
+     header {
+      text-align: center;
+    padding: 20px;
+    background-color: rgb(134, 127, 127);
+      color: #fff;  }
+      section {
+     margin-top: 20px;
+      article {    margin-bottom: 20px;    }
+     footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #333;
+     color: #fff; }   </header>     <center>       <title>  🚀 Tech soluções 🚀</title> </center>  
     
-</head> <body> 
+<body> 
 
  </body>
-    <h1> <center> 🎖️ Bem-vindo ao Site! <font color="#FF0000"></font>🎖️  </center>  </h1><nav>
+    <h1>/,title> <center> 🎖️ Bem-vindo ao Site! <font color="#FF0000"></font>🎖️  </center> </title> </h1><nav>
         <ul>   
             <br  >
 <li><a href="#">Página
@@ -31,35 +55,10 @@
 </p>   </footer> 
 
             
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Informática</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
- header {
-  text-align: center;
-padding: 20px;
-background-color: #333;
-  color: #fff;  }
-  section {
- margin-top: 20px;
-  article {    margin-bottom: 20px;    }
- footer {
-  text-align: center;
-  padding: 10px;
-  background-color: #333;
- color: #fff; }</style>
-</head>
+</style>
+
 <body>
-   <header>
-  Informática</header>
+  Informática
  <p>Sua fonte confiável para informações sobre tecnologia.</p>
   
  <section>
