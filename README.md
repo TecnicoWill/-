@@ -27,7 +27,7 @@
 <body> 
 
  </body>
-    <h1> <title> <center> 🎖️ Bem-vindo ao Site! <font color="#FF0000"></font>🎖️  </center> </title> </h1><nav>
+    <h1>/,title> <center> 🎖️ Bem-vindo ao Site! <font color="#FF0000"></font>🎖️  </center> </title> </h1><nav>
         <ul>   
             <br  >
 <li><a href="#">Página
@@ -50,7 +50,7 @@
 <h2> <font>Sobre o site </font> </h2>
       🌏 <strong> Desenvolvimento de sites seguros </strong>🌏 <br>  ✅ Criptografia moderna e autenticada. 🔒<br>✅ Certificado reconhecido. 🛡️ <p> </p>
        <br  />
-<p>&copy;2023 Tech soluções 🇧🇷. Todos
+<p>&copy;2024 Tech soluções 🇧🇷. Todos
     os direitos reservados ®. <img src="/data/data/com.termux/files/home/cison/SEGURANCA.PNG"/>
 </p>  
 
